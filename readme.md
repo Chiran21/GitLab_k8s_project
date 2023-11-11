@@ -1,14 +1,3 @@
-# End to End Gitlab Pipeline with Spring PetClinic Sample Application 
-
-## Follow my GitLab Video Series
-```
-https://youtube.com/playlist?list=PL8klaCXyIuQ46vZOchy-fSregRq1YdPBF
-```
-## Youtube Video URL for this End to End Demo
-```
-https://youtu.be/6i1t7JcEOds
-```
-
 ## Pre-Requisites
 ```
 DigitalOcean Account: Get free 125 USD DigitalOcean cloud credits to try Kubernetes for 60 days. Sign up using this link: https://m.do.co/c/150b2fde3db0
